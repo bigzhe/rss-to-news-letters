@@ -2,7 +2,6 @@ on:
   rss:
     url:
       - http://feeds.feedburner.com/ruanyifeng
-      - https://api.sixthtone.com/cont/output/rssApi
 jobs:
   request:
     name: Make a HTTP Request
